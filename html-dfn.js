@@ -141,7 +141,7 @@ function fillInReferences(id) {
     }
     dfnPanel.appendChild(ul);
   } else {
-    p.textContent = 'No references in this specification.';
+    p.textContent = 'No references in t his specification.';
   }
 }
 
